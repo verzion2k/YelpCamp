@@ -1,2 +1,2 @@
 # YelpCamp
-YelpCamp project
+Added version 1
