@@ -28,6 +28,7 @@
 #Style the Navbar and Form
 
 * Add a navbar to all templates
+<<<<<<< HEAD
 * Style the new campground form
 
 # Add Mongoose
@@ -51,3 +52,6 @@ INDEX   /dogs       GET     Display a list of all dogs
 NEW     /dogs/new   GET     Displays form to make a new dog
 CREATE  /dogs       POST    Add new dog to DB
 SHOW    /dogs/:id   GET     Shows info about one dog
+=======
+* Style the new campground form
+>>>>>>> 6aad036b12b1554e7f81b6a1f1c5a792713afbf5
