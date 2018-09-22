@@ -28,16 +28,15 @@
 #Style the Navbar and Form
 
 * Add a navbar to all templates
-<<<<<<< HEAD
 * Style the new campground form
 
-# Add Mongoose
+#Add Mongoose
 
 * Install and configure mongoose
 * Setup campground model
 * Use campground model inside of our routes!
 
-# Show Page
+#Show Page
 
 * Review the RESTful routes we've seen so far
 * Add description to our campground model
@@ -52,6 +51,23 @@ INDEX   /dogs       GET     Display a list of all dogs
 NEW     /dogs/new   GET     Displays form to make a new dog
 CREATE  /dogs       POST    Add new dog to DB
 SHOW    /dogs/:id   GET     Shows info about one dog
-=======
+
 * Style the new campground form
->>>>>>> 6aad036b12b1554e7f81b6a1f1c5a792713afbf5
+
+#Refactor Mongoose Code
+* Create a models directory
+* Use module.exports
+* Require everything correctly!
+
+#Add Seeds File
+* Add a seeds.js file
+* Run the seeds file every time the server starts
+
+#Add the Comment model!
+* Make our errors go away!
+* Display comments on campground show page
+
+#Comment New/Create
+* Discuss nested routes
+* Add the comment new and create routes
+* Add the new comment form
